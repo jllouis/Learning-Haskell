@@ -1,1 +1,1 @@
-Prelude> putStrLn "Hello, Haskell!"
+main = putStrLn "Hello, Haskell!"
